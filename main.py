@@ -161,7 +161,7 @@ async def ai_loop(ui: JarvisUI):
                         "parameters": parameters,
                         "player": ui,
                         "session_memory": temp_memory,
-                        "api_key": "70f0c4f073593cc3ba66c7b825cdbacd8f696e3c155e54ecd1540d32c00043b4"
+                        "api_key": "your_serpApi_key"
                     },
                     daemon=True
                 ).start()
