@@ -1,0 +1,22 @@
+{
+  "identity": {},
+  "preferences": {},
+  "relationships": {},
+  "emotional_state": {
+    "boredom": {
+      "value": true
+    },
+    "emotion_boredom": {
+      "value": true
+    },
+    "emotion_emotion_boredom": {
+      "value": true
+    },
+    "emotion_emotion_emotion_boredom": {
+      "value": true
+    },
+    "emotion_emotion_emotion_emotion_boredom": {
+      "value": true
+    }
+  }
+}
